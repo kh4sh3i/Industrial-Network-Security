@@ -51,7 +51,12 @@ Welcome to **Industrial Network Security** repo — a simple, one‑page guide f
   ---
   
   <img src="img/3.png" />
-</p?
+
+
+[![1](img/1.png)](img/1.png)  
+[![2](img/2.png)](img/2.png)  
+  
+</p>
 
 
 

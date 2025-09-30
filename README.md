@@ -42,6 +42,7 @@ Welcome to **Industrial Network Security** repo — a simple, one‑page guide f
 
 ## 📸 Course Screenshots Gallery (50 Images)
 <p align="center">
+
 [![1](img/1.png)](img/1.png)  
 ---
 [![2](img/2.png)](img/2.png)  

@@ -1,6 +1,6 @@
-# 🛡️ Industrial Network Security
+# 🛡️ ICS Network Security
 
-Welcome to **Industrial Network Security** repo — a simple, one‑page guide for ICS/OT security 🚦⚙️
+Welcome to **Industrial Control Systems Network Security** — a simple guide for ICS/OT security 🚦⚙️
 
 ---
 
